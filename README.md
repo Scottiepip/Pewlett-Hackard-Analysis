@@ -7,5 +7,8 @@ Bobby is a HR analyyst of Pewlett Hackard,  whose job is to perform employee res
 After complete creating the list of all employees eligible for the retirment package,Bobby's manager has given two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
 ## Results:
+- Number of employees about to retire per title
+  1. Based on the retiring titles table we created, there are 72,458 employees are about to retire
+  2. 
 
 ## Summary:

@@ -17,3 +17,5 @@ After complete creating the list of all employees eligible for the retirment pac
   1. Base on the mentorship eligibility table we created, there are 1,940 current employees are eligible to participate in the mentorship program.
 
 ## Summary:
+- Base on the analysis, there are total 72,458 employees are about to retire within the next few years and majority of these employees are senior level employees. So Pewlett Hackard should prepare to recruite more senior employees or promote more junior level employees to senior level within the next few years.
+- Pewlett Hackard is a big company, but only 1,940 employees are eligible to participate in the mentorship program. But there are more than 10 times employees are about to retire. The mentors might not be enough. Pewlett Hackard should consider change their eligibility criteria for the mentorship program so more employees and participate in the mentorship program.
